@@ -76,4 +76,4 @@ The performance of the model can be evaluated using metrics such as accuracy, pr
 
 This project demonstrates how to build a Titanic survival prediction system based on various factors. By analyzing the dataset and training a classification model, you can gain insights into which factors were most likely to lead to survival in the event of the Titanic sinking.
 
-Feel free to modify and extend this project as needed for your specific requirements.
+Feel free to modify and extend this as needed for your specific requirements.
