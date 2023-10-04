@@ -41,7 +41,7 @@ pip install pandas numpy matplotlib
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/kartikaysingh69/BHARATINTERN_task2_Titanic_Classification.git>
 ```
 
 2. Navigate to the project directory:
